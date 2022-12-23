@@ -1,4 +1,4 @@
-### Hi there! eu sou o Praxetado 👋
+### Hi there! eu sou o Praxedes 👋
 <font size="2">Um apaixonado por tecnologia.</br>
 No meu tempo livre tambem adoro praticar esportes e aprender sobre as tendências das novas tecnologias.
 </font>
