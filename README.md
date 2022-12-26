@@ -1,4 +1,8 @@
 ### Hi there! eu sou o Praxedes 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Praxedes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-praxedes-79316a1a1/)](https://www.linkedin.com/in/lucas-praxedes-79316a1a1/) 
+[![Gmail Badge](https://img.shields.io/badge/-devpraxedes@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devpraxedes@gmail.com)](mailto:devpraxedes@gmail.com)
+
 <font size="2">Um apaixonado por tecnologia.</br>
 Talented backend developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. Designed and developed web applications across multiple APIs, third-party integrations and databases. Passionate and hardworking with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security.
 
