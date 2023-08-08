@@ -9,8 +9,13 @@ Talented backend developer adept at contributing to a highly collaborative work 
 Atualmente trabalho como, Dev fullstack , utilizando as tecnologias Python 🐍.
 </font>
 
+## 📈 GitHub Status 
+<div >
+  <a href="https://github.com/lucasxedes">
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=lucasxedes&show_icons=true&&theme=aura&count_private=true"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxedes&layout=compact&langs_count=7&theme=aura"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxedes&layout=compact)](https://github.com/lucasxedes/github-readme-stats)
 ## Principais Tecnologias que uso no dia-a-dia
 <div style="display: inline_block"> </br> 
   <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
